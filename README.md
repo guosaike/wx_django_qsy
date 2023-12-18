@@ -191,7 +191,7 @@ nginx: configuration file /www/server/nginx/conf/nginx.conf test is successful
 
 
 
-cd /www/wwwroot/test.ake666.com
+cd /www/wwwroot/test.abc.com
 
 pip3 install -r requirements.txt
 
