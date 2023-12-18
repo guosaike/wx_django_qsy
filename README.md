@@ -9,7 +9,7 @@ Python的Django开发的短视频去水印小程序源码【后端Python】
 
 
 wxxcx_django_qsy.zip 是后端文件，上传宝塔面板
-wx_dj_qsy_qd.zip     是前端文件，修怪app.js里的域名即可，修改成你的
+wx_dj_qsy_qd.zip     是前端文件，修改app.js里的域名即可，修改成你的
 
 下面配置好后跟着配置，访问你的域名就是访问后台了
 
