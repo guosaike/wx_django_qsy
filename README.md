@@ -184,9 +184,6 @@ nginx: configuration file /www/server/nginx/conf/nginx.conf test is successful
 如果不能访问
 
 
-
-![image-20231218201345643](./20.png)
-
 通过 source /www/wwwroot/test.abc.com/c18150a64f095993d7c2da9a51bdadae_venv/lib/python3.6/venv/scripts/common/activate 进入虚拟环境看了一下依赖包一个没有安装我们手动安装
 
 
